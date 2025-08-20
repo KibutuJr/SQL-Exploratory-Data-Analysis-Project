@@ -16,6 +16,13 @@ The repository contains **well-structured SQL scripts** that cover multiple expl
 This project emphasizes **practical, real-world use cases** of SQL in business and analytics settings. It is designed for learners, aspiring analysts, and professionals looking to sharpen their SQL skills while practicing structured EDA.
 
 ---
+## 📌 Data Analytics Roadmap
+
+The roadmap below provides a clear visual representation of the structured learning and workflow path followed in this project.
+
+![Data Analytics Roadmap](./Data%20Analytics%20Roadmap.PNG)
+
+---
 
 ## 🎯 Objectives
 
