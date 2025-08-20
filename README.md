@@ -1,13 +1,9 @@
-# SQL-Exploratory-Data-Analysis-Project
-This repository features a collection of SQL scripts showcasing analytical techniques, including trend analysis, cumulative calculations, performance evaluation, data segmentation, and part-to-whole analysis.
-
----
-
 # SQL Exploratory Data Analysis Project
 
 ## 📌 Project Overview
 
 This project demonstrates the power of **SQL in Exploratory Data Analysis (EDA)** by applying a range of analytical techniques to uncover insights from data. SQL is not just a querying language—it is also a robust tool for **exploring, segmenting, and analyzing datasets** directly within the database environment, making it invaluable for data analysts and business intelligence professionals.
+It features a collection of SQL scripts showcasing analytical techniques, including trend analysis, cumulative calculations, performance evaluation, data segmentation, and part-to-whole analysis.
 
 The repository contains **well-structured SQL scripts** that cover multiple exploratory techniques, including:
 
@@ -44,9 +40,8 @@ SQL-Exploratory-Data-Analysis-Project/
 │   ├── segmentation_analysis.sql
 │   ├── part_to_whole.sql
 │
-├── sample_data/
-│   ├── dataset_schema.sql
-│   └── dataset_sample.csv
+├── datasets/
+│   ├── csv_files
 │
 ├── README.md
 └── LICENSE
