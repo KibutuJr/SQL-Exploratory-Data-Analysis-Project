@@ -146,7 +146,7 @@ This project is licensed under the MIT License – free to use, modify, and dist
 
 ## 👤 Author
 
-**Fred Kibutu**
+**Fred Kibutu** - [Portfolio](https://kibutujr.vercel.app/)
 
 * Data Analyst | Data Engineer | Software Engineer | 
 * Insights-Driven. System-Built. Code-Crafted.
